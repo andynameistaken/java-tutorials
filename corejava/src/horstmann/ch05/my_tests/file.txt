@@ -1,0 +1,3 @@
+this is first line of file
+and this is a second
+third maybe - that's it
